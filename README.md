@@ -1,8 +1,6 @@
-# cogs108_ss1_23_group_xx
+# cogs108_ss1_23_group_11
 COGS 108 group template repo
 
-This will be your Repository for the duration of this class. Be sure to fork it at the end after turning in your final project as sometime soon after we will freeze it as is.
+This repo contains the group 11 work on the study on grade inflation in UCSD over the years. Specifically we wanted to focus on the quarters of COVID, TA Strike, and ChatGPT and seeing whether they had any association with grade inflation
 
-This is where you will turn in all your project checkpoints, data, video/video link and final report.
-
-Feel free to edit this README.md file and update with your group number.
+The video is where we go over the entirety of our final report: [Link](https://youtu.be/PG2LRgOwt_0)
